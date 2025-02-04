@@ -35,22 +35,16 @@ docx文档中的人名生成词云图
 
 ### 使用步骤
 
-1. **克隆仓库**：
-   ```bash
-   git clone https://github.com/your-username/NameCloud-Generator.git
-   cd NameCloud-Generator
-   ```
-
-2. **准备文档**：
+1. **准备文档**：
    - 将需要分析的 Word 文档放入项目目录，命名为 `input.docx`。
    - 或修改代码中的 `input_file` 参数为你的文档路径。
 
-3. **运行脚本**：
+2. **运行脚本**：
    ```bash
    python NameCloud-Generator.py
    ```
 
-4. **查看结果**：
+3. **查看结果**：
    - 生成的词云图将保存为 `names_cloud.png`。
    - 图片会显示在屏幕上，并自动保存到项目目录。
 

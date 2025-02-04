@@ -98,7 +98,6 @@ CONFIG = {
 ## 贡献与反馈
 
 欢迎提交 Issue 或 Pull Request 改进本项目！  
-如有问题或建议，请联系：`your-email@example.com`
-
+如有问题或建议，请联系
 ---
 
